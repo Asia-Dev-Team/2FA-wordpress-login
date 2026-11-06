@@ -1,4 +1,4 @@
-# Временные файлы проекта
+# Temporary project files
 CONTEXT.md
 
 # WordPress
@@ -26,10 +26,10 @@ debug.log
 *.bak
 *~
 
-# Node modules (если будешь использовать npm)
+# Node modules (if npm is used)
 node_modules/
 
-# Composer (если будешь использовать)
+# Composer (if used)
 vendor/
 
 # Build files
